@@ -1,1 +1,1 @@
-# bin
+Useful system scripts.
